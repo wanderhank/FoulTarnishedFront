@@ -1,2 +1,0 @@
-# FoulTarnishedFront
-Frontend do FoulTarnished
